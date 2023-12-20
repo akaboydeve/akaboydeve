@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Sardar</h1>
 <h2 align="center">https://github.com/akaboydeve</h2>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A Aspiring FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaboydeve&label=Profile%20views&color=0e75b6&style=flat" alt="akaboydeve" /> </p>
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Cloud Computing](https://github.com/akaboydeve)
+- 🔭 I’m currently working on [Cloud Computing](https://github.com/akaboydeve) & [Game Development](https://github.com/akaboydeve)
 
 - 👯 I’m looking to collaborate on **Game Development**
 
-- 🤝 I’m looking for help with **Server**
+- 🤝 I’m looking for help with **App Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akaboydeve](https://github.com/akaboydeve)
 
