@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Sardar</h1>
-<h2 align="center" justify="center"></a>https://github.com/akaboydeve</a><a href="https://github.com/akaboydeve" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="akaboy" height="30"/><a href="https://www.youtube.com/c/akaboydeve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akaboy" height="30" width="40" /></h2>
+<h2 align="center"></a>https://github.com/akaboydeve</a><a href="https://github.com/akaboydeve" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="akaboy" height="30"/> </a>https://github.com/akaboydeve</a> <a href="https://www.youtube.com/c/akaboydeve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akaboy" height="30" width="40" /></h2>
 <h3 align="center">A Aspiring FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaboydeve&label=Profile%20views&color=0e75b6&style=flat" alt="akaboydeve" /> </p>
