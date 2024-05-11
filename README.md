@@ -6,7 +6,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="akaboy" height="30" width="40" /></a>Check for my Tutorials
 </h2>
-<h3 align="center">A Aspiring FullStack developer from India</h3>
+<h3 align="center">An Aspiring FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaboydeve&label=Profile%20views&color=0e75b6&style=flat"
         alt="akaboydeve" /> </p>
